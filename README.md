@@ -12,9 +12,7 @@ This Flutter project aims to replicate the functionality of Google Maps, providi
 - [Dependencies](#dependencies)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Software Requirements
 
 - **Flutter SDK**: [Install Flutter](https://flutter.dev/docs/get-started/install)
@@ -103,11 +101,3 @@ A stable internet connection is required for:
 1. Run the application on your emulator or physical device.
 
 2. Explore the map, search for locations, and test navigation functionalities.
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
